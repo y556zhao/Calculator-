@@ -5,8 +5,8 @@ body{
 #container{
     width: 1000px;
     height: 650px;
-    background-image :url(ALLAN.jpeg);
-    gradient: (rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(ALLAN.jpeg);
+    background-image :url(IMAGE.jpeg);
+    gradient: (rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(IMAGE.jpeg);
     margin: 20px auto;
 }
 #calculator{
