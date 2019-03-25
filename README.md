@@ -1,2 +1,2 @@
-# Calculator-
+# Calculator- Progressing...
 a simple calculator using JavaScript, CSS, and HTML 
